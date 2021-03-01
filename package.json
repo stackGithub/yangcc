@@ -23,7 +23,7 @@
     "mavon-editor": "^2.7.6",
     "portfinder": "^1.0.25",
     "qrcode": "^1.4.2",
-    "three": "^0.118.3",
+    "three": "^0.125.0",
     "vue": "^2.6.10",
     "vue-amap": "^0.5.10",
     "vue-axios": "^2.1.5",
